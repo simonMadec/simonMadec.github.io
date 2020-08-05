@@ -1,0 +1,87 @@
+name: Guillaume Lobet
+
+label: Roots - Image Analysis - Modelling - Open Science
+
+position: Assistant Professor
+
+picture: /img/profile-picture.jpg
+
+email: g.lobet
+
+phone: 
+
+curriculum: https://docs.google.com/document/d/1zMsvdbOv7w-ZpUy8mE8-o_DzPjXmfSZPn9xEox8Y4vo/edit?usp=sharing
+
+department: >
+    Agrosphere - IBG-3
+    Forschungszentrum Juelich
+
+institution: >
+
+mailing_address: >
+    Earth and Life Institute
+    Université catholique de Louvain
+    
+    
+
+websites:
+    - 
+        name: Plant Image Analysis
+        url: http://www.plant-image-analysis.org
+    - 
+        name: The Topless Ninja
+        url: http://toplessninja.tumblr.com
+    - 
+        name: ROSI
+        url: http://www.rosi.science
+    - 
+        name: FLOR-ID
+        url: http://www.flor-id.org
+
+profiles:
+  - 
+    network: ORCID
+    username:
+    url: https://orcid.org/0000-0002-5883-4572   
+  - 
+    network: ImpactStory
+    username:
+    url: https://impactstory.org/u/0000-0002-5883-4572    
+  - 
+    network: Google Scholar
+    username:
+    url: http://scholar.google.com/citations?user=XHIe6wsAAAAJ&hl=en
+  -
+    network: Twitter
+    username: guillaumelobet
+    url: http://twitter.com/guillaumelobet/
+  -
+    network: Github
+    username: guillaumelobet
+    url: http://github.com/guillaumelobet/   
+  -
+    network: Figshare
+    username: 
+    url: http://figshare.com/authors/Guillaume_Lobet/98389       
+  -
+    network: Publons
+    username: 
+    url: http://publons.com/author/207362/guillaume-lobet
+
+intro:
+  title: Hi, I am Guillaume and this is my personnal website!
+  body: >
+
+    The aim of my research is (i) to understand how various signals that carry information are interacting and being conveyed and integrated at the plant level and (ii) to amplify discrete physiological knowledge into functional plant processes. All of that using Functional Structural Plant Models. 
+
+
+    I also develop image analysis and phenotyping tools to help researchers in their scientific workflow. I am an Open Science enthousiat, diversity advocate and coffee drinker. 
+
+
+    I am currently an Assistant Professor between the [Forschungszentrum Juelich](https://www.fz-juelich.de/ibg/ibg-3/EN/Home/home_node.html) and the [UCLouvain](http://www.uclouvain.be/eli) since September 2016. More about [my group here](http://www.plantmodelling.xyz). An overview of my research vision can be found [in this presentation](http://bit.ly/lobet-ucl-fzj-2).
+    
+
+footer: >
+    Website created and maintained by myself with <span style="color: red;"><i class="fas fa-heart"></i></span> and <span style="color:#4f3130;"><i class="fas fa-coffee"></i></span>. Heavily relying on <a href="https://getbootstrap.com/">Bootstrap 4.0</a> and <a href="https://fontawesome.com">Font Awesome 5</a>. Also tacking advantage of the awesome badges from <a href="https://www.altmetric.com/">Altmetrics</a> and <a href="https://www.dimensions.ai/">Dimensions</a>. Hosted on <i class="fab fa-github"></i>. Source code available <a href="https://github.com/guillaumelobet/guillaumelobet.github.io">here</a>.
+
+
