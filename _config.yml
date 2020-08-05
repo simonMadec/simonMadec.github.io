@@ -1,15 +1,15 @@
-title:              Guillaume Lobet
-email:              g.lobet@fz-juelich.de
+title:              Simon Madec
+email:              madec.simon@gmail.com
 description:        My personal website
-author:             Guillaume Lobet
+author:             Simon Madec
 baseurl:            /
-url:                https://guillaumelobet.github.io/
+url:                https://simonmadec.github.io//
 
 # Social Profiles
-twitter_username:   guillaumelobet
-github_username:    guillaumelobet
+twitter_username:   MadecSimon
+github_username:    simonMadec
 facebook_username:  /
-linkedin_username:  guillaumelobet
+linkedin_username:  simonmadec
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
