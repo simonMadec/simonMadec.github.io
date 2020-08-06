@@ -18,8 +18,7 @@ department: >
 institution: >
 
 mailing_address: >
-    Earth and Life Institute
-    Université catholique de Louvain
+
     
     
 
@@ -60,14 +59,7 @@ intro:
   title: Welcome to Simon Madec website
   body: >
 
-    The aim of my research is (i) to understand how various signals that carry information are interacting and being conveyed and integrated at the plant level and (ii) to amplify discrete physiological knowledge into functional plant processes. All of that using Functional Structural Plant Models. 
-
-
-    I also develop image analysis and phenotyping tools to help researchers in their scientific workflow. I am an Open Science enthousiat, diversity advocate and coffee drinker. 
-
-
-    I am currently an Assistant Professor between the [Forschungszentrum Juelich](https://www.fz-juelich.de/ibg/ibg-3/EN/Home/home_node.html) and the [UCLouvain](http://www.uclouvain.be/eli) since September 2016. More about [my group here](http://www.plantmodelling.xyz). An overview of my research vision can be found [in this presentation](http://bit.ly/lobet-ucl-fzj-2).
-    
+    Simon Madec is working on the use of convolutional neural networks and remote sensing technologies in crop environment. He is particularly interested in their use for plant phenotyping and crop adaptation. After an engineer diploma in computer vision (Grenoble INP, Phelma, SICOM), he received a PHD at INRA in 2019 under the supervision of Fred Baret. He was involved in many projects with the aim to deliver high-throughput methodologies for wheat phenotyping. He has been working actively to introduce the use of deep learning within the CAPTE team. Today, Simon is involved in the construction of large-scale datasets to enable reliable and robust extraction of relevant plant features using deep learning. 
 
 footer: >
     Website created from <a href="https://github.com/guillaumelobet/guillaumelobet.github.io">here</a>.
