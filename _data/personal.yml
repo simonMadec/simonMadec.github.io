@@ -1,22 +1,21 @@
 name: Guillaume Lobet
 
-label: Roots - Image Analysis - Modelling - Open Science
+label:  Image Analysis - Deep learning - Field crop phenotyping 
 
-position: Assistant Professor
+position: Postdoc
 
-picture: /img/profile-picture.jpg
+picture: /img/portrait.jpg
 
-email: g.lobet
+email: s.madec@arvalis.fr
 
-phone: 
+phone: +33633716399
 
-curriculum: https://docs.google.com/document/d/1zMsvdbOv7w-ZpUy8mE8-o_DzPjXmfSZPn9xEox8Y4vo/edit?usp=sharing
+curriculum: 
 
 department: >
-    Agrosphere - IBG-3
-    Forschungszentrum Juelich
+    CAPTE
 
-institution: >
+institution: >ARVALIS
 
 mailing_address: >
     Earth and Life Institute
@@ -26,50 +25,39 @@ mailing_address: >
 
 websites:
     - 
-        name: Plant Image Analysis
-        url: http://www.plant-image-analysis.org
-    - 
-        name: The Topless Ninja
-        url: http://toplessninja.tumblr.com
-    - 
-        name: ROSI
-        url: http://www.rosi.science
-    - 
-        name: FLOR-ID
-        url: http://www.flor-id.org
+        name: 
+        url: 
+
 
 profiles:
   - 
     network: ORCID
     username:
-    url: https://orcid.org/0000-0002-5883-4572   
+    url: https://orcid.org/0000-0002-5367-184X   
   - 
-    network: ImpactStory
-    username:
-    url: https://impactstory.org/u/0000-0002-5883-4572    
+    network: ResearchGate
+    username: Simon Madec
+    url: https://www.researchgate.net/profile/Simon_Madec2    
   - 
     network: Google Scholar
-    username:
-    url: http://scholar.google.com/citations?user=XHIe6wsAAAAJ&hl=en
+    username: Simon Madec
+    url: https://scholar.google.com/citations?user=tRQI7j4AAAAJ&hl=en&oi=ao
   -
     network: Twitter
-    username: guillaumelobet
-    url: http://twitter.com/guillaumelobet/
+    username: MadecSimon
+    url: https://twitter.com/MadecSimon
   -
     network: Github
-    username: guillaumelobet
-    url: http://github.com/guillaumelobet/   
-  -
-    network: Figshare
-    username: 
-    url: http://figshare.com/authors/Guillaume_Lobet/98389       
+    username: simonMadec
+    url: https://github.com/simonMadec   
+  
   -
     network: Publons
     username: 
-    url: http://publons.com/author/207362/guillaume-lobet
+    url: https://publons.com/researcher/1562676/simon-madec/
 
 intro:
-  title: Hi, I am Guillaume and this is my personnal website!
+  title: Welcome to Simon Madec website
   body: >
 
     The aim of my research is (i) to understand how various signals that carry information are interacting and being conveyed and integrated at the plant level and (ii) to amplify discrete physiological knowledge into functional plant processes. All of that using Functional Structural Plant Models. 
@@ -82,6 +70,6 @@ intro:
     
 
 footer: >
-    Website created and maintained by myself with <span style="color: red;"><i class="fas fa-heart"></i></span> and <span style="color:#4f3130;"><i class="fas fa-coffee"></i></span>. Heavily relying on <a href="https://getbootstrap.com/">Bootstrap 4.0</a> and <a href="https://fontawesome.com">Font Awesome 5</a>. Also tacking advantage of the awesome badges from <a href="https://www.altmetric.com/">Altmetrics</a> and <a href="https://www.dimensions.ai/">Dimensions</a>. Hosted on <i class="fab fa-github"></i>. Source code available <a href="https://github.com/guillaumelobet/guillaumelobet.github.io">here</a>.
+    Website created from <a href="https://github.com/guillaumelobet/guillaumelobet.github.io">here</a>.
 
 
